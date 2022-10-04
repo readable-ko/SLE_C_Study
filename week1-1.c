@@ -1,3 +1,6 @@
+//검증수
+//1주차 1번 문제.
+//https://www.acmicpc.net/problem/2475
 #include <stdio.h>
 #define SQUARED(A) (A * A)
 int main()
